@@ -1,9 +1,15 @@
 # BananoAlert
-Tested with Python 3.8.3 not tested with other versions
+
 Alert you when your banano account balance change
 
+
+## Installation
+
+Tested with Python 3.8.3 not tested with other versions.
+Need pip to install all the dependencies
 Dependencies:
--win10toast
+```
+-win10toast 
 -requests
 -bananopy
 -pillow
@@ -11,8 +17,18 @@ Dependencies:
 -json
 -dotenv
 -os
+```
 
-How to use BananoAlert ?
-1)install all the dependencies 
-2)Put your Banano Address in the .env file
-3)You can start with python3 main.py
+
+
+## Usage
+
+```
+Put your address in the .env file
+After, run python3 main.py
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
