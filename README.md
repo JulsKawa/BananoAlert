@@ -23,7 +23,10 @@ ADDRESS=ban_YOUR_BAN_ADDRESS
 ```
 
 ## Running
-- Run python3 main.py
+- Run the program
+```
+python3 main.py
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
