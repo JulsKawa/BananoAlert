@@ -1,3 +1,5 @@
+![Python application](https://github.com/sebrock/BananoAlert/workflows/Python%20application/badge.svg)
+
 # BananoAlert
 
 Alerts you when your banano account balance changes.
