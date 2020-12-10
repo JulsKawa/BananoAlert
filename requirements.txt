@@ -1,0 +1,8 @@
+win10toast
+requests
+bananopy
+pillow
+time
+json
+dotenv
+os
